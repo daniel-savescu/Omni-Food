@@ -1,4 +1,4 @@
-<h4>Omni Food Project From Udemy Course: Build Responsive Real-World Websites with HTML and CSS</h4>
+<h3>Omni Food Project From Udemy Course: Build Responsive Real-World Websites with HTML and CSS</h3>
 <p>You can find the full project in this repository</p>
 
 ![demo_01](https://github.com/user-attachments/assets/f02476c2-1867-48e2-8843-9047d0a5746b)
